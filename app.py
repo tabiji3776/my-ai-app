@@ -2,7 +2,7 @@ Python
 import streamlit as st
 import google.generativeai as genai
 
-st.title("🔍 ログイン不要のAI検索アプリ")
+st.title("🔍 旅路の荘ログイン不要のAI検索アプリ")
 
 # APIキーの設定
 api_key = st.secrets["GEMINI_API_KEY"]
